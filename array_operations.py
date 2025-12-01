@@ -19,3 +19,10 @@ arr3=arr1.copy()
 arr1[2]=10
 print(arr1)
 print(arr3)
+
+print("Add value to each element of array")
+arr3=arr3+5
+print(arr3)
+
+print("Multiply two arrays")
+print(arr1*arr3)
